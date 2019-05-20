@@ -1,4 +1,5 @@
-{"posts": [
+{
+    "posts": [
     {
       "id": 1,
       "title": "hello"
@@ -25,35 +26,5 @@
   "loanInformation": {
     "purpose": "home_refi", 
     "loanAmount": 10000
-  },
-  "mortgageInformation": {
-    "propertyType": "condo", 
-    "propertyStatus": "own_with_mortgage", 
-    "propertyValue": 200000, 
-    "mortgageBalance": 10000, 
-    "lenderName": "Bank OF NY", 
-    "hasFHALoan": true, 
-    "currentWithLoan": true
-  }, 
-  "creditCardInformation": {
-    "allowAnnualFee": true, 
-    "cardBenefits": [
-      "travel_incentives"
-    ]
-  }, 
-  "creditInformation": {
-    "providedCreditRating": "excellent", 
-    "providedNumericCreditScore": 750
-  }, 
-  "financialInformation": {
-    "employmentStatus": "employed", 
-    "employmentPayFrequency": "weekly", 
-    "annualIncome": 120000, 
-    "monthlyNetIncome": 10000, 
-    "bankName": "Santander", 
-    "bankRoutingNumber": "231372691", 
-    "bankAccountType": "savings", 
-    "monthsAtBank": 10, 
-    "bankAccountNumber": "1234567890"
   }
 }
